@@ -2,7 +2,7 @@
 ![language](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge)](https://store.steampowered.com/app/2106590/Dyestributor/)
 
-# Dyestributor
+# Dyestributor-AI
 An AI solution finder for Dyestributor, built with Python
 
 ## 🗂️ Table of Contents
